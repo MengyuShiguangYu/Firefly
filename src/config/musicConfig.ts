@@ -32,9 +32,9 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 		// 类型：song=单曲, playlist=歌单, album=专辑, search=搜索, artist=艺术家
 		type: "playlist",
 		// 歌单/专辑/单曲 ID 或搜索关键词
-		id: "10046455237",
+		id: "8025775417",
 		// 认证 token（可选）
-		auth: "",
+		auth: "61e78288f45845ff5cea6891583b0a02",
 		// 备用 API 配置（当主 API 失败时使用）
 		fallbackApis: [
 			"https://api.injahow.cn/meting/?server=:server&type=:type&id=:id",

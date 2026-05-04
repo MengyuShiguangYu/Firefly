@@ -71,16 +71,15 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:github",
 			},
 			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
+				name: "Memories",
+				url: "https://memories.dpdns.org",
 				external: true,
-				icon: "fa7-brands:gitee",
 			},
 			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
+				name: "BiliBili",
+				url: "https://space.bilibili.com/3493286973016503",
 				external: true,
-				icon: "fa7-brands:qq",
+				icon: "fa7-brands:bilibili",
 			},
 		],
 	});
