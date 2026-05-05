@@ -40,7 +40,6 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
 			"assets/images/DesktopWallpaper/m1.png",
-			"assets/images/DesktopWallpaper/m2.JPG",
 			"assets/images/DesktopWallpaper/m3.png",
 			"assets/images/DesktopWallpaper/m4.jpg",
 		],
@@ -96,9 +95,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "背景来源于网络",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "背景来源于网络",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
