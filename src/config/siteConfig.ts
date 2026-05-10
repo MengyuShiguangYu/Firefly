@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Blog",
 
 	// 站点 URL
-	site_url: "https://blog.memories.dpdns.org/",
+	site_url: "https://blog.yzhdemeng.dpdns.org/",
 
 	// 站点描述
 	description:
