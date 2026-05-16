@@ -65,15 +65,20 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		// 子菜单
 		children: [
 			{
+				name: "Memories",
+				url: "https://memories.dpdns.org",
+				external: true,
+			},
+			{
+				name: "Time Capsule",
+				url: "https://timecapsule.dpdns.org",
+				external: true,
+			},
+			{
 				name: "GitHub",
 				url: "https://github.com/CuteLeaf/Firefly",
 				external: true,
 				icon: "fa7-brands:github",
-			},
-			{
-				name: "Memories",
-				url: "https://memories.dpdns.org",
-				external: true,
 			},
 			{
 				name: "BiliBili",
